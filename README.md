@@ -6,15 +6,14 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**45 open jobs** (🟢 12 · 🟡 19 · ⚪ 14) · **0 application packs** · updated 2026-10-06 · checks every 5 minutes · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**45 open jobs** (🟢 11 · 🟡 20 · ⚪ 14) · **0 application packs** · updated 2026-10-06 · checks every 5 minutes · sources working today: 8 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
 
 | Job | Employer · place | Deadline | Left | Fit | Application pack | Note |
 |---|---|---|---|---|---|---|
-| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593) 🆕 | via unvacancies · engineering | 2026-10-08 | 🔴 2 days | 🟢 High | ⏳ retrying | Found automatically (16 points) |
-| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) 🆕 | CTG · DR Congo | 2026-10-10 | 🔴 4 days | 🟢 High | ⏳ queued | Check French + nationality rules |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) 🆕 | CTG · DR Congo | 2026-10-10 | 🔴 4 days | 🟢 High | ⏳ retrying | Check French + nationality rules |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 24 days | 🟢 High | ⏳ queued | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) 🆕 | UNOPS · Homs · IICA-2 | 2026-10-30 | 24 days | 🟢 High | ⏳ queued | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) 🆕 | Huawei · Sarajevo | 2026-12-14 | 69 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
@@ -25,6 +24,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum](https://unjobs.org/vacancies/1791262902457) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (19 points) |
 | [Architect / Civil Engineer – Building in Existing Buildings (Req 3412)](https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN) 🆕 | STRABAG · Austria | – | check | 🟢 High | ⏳ queued | Check deadline + work permit |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)](https://unjobs.org/skills/infrastructure-projects) 🆕 | Danish Refugee Council · Beirut | – | check | 🟢 High | ⏳ queued | Check deadline |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593) 🆕 | via unvacancies · UN-Habitat | 2026-10-08 | 🔴 2 days | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) 🆕 | via unvacancies · engineering | 2026-10-09 | 🔴 3 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [International Urban Design Lead Expert](https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835) 🆕 | via unvacancies · UN-Habitat | 2026-10-14 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Contract Management Specialist](https://careers.unops.org/) 🆕 | UNOPS · Home-based | 2026-10-14 | 8 days | 🟡 Medium | ⏳ queued | Check it isn't local-hire only |
@@ -36,7 +36,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) 🆕 | UN-Habitat · Montreal · consultancy | 2026-10-21 | 15 days | 🟡 Medium | ⏳ queued | Deadline from listing |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 24 days | 🟡 Medium | ⏳ queued | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) 🆕 | UN-Habitat · Nairobi | 2026-11-07 | 32 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
-| [Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States](https://unjobs.org/vacancies/1791190532780) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Project Coordinator](https://unjobs.org/vacancies/1791230820933) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791190732675) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon](https://unjobs.org/vacancies/1790951875279) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Infrastructure Project Manager, Port Moresby, Papua New Guinea](https://unjobs.org/vacancies/1790750189205) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |

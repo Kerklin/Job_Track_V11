@@ -92,25 +92,25 @@
    "tries": 0
   },
   {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593",
-   "deadline": "2026-10-08",
-   "fit": "High",
-   "note": "Found automatically (16 points)",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-06",
-   "pack": "retry",
-   "tries": 1
-  },
-  {
    "title": "International Urban Design Lead Expert",
    "info": "via unvacancies · UN-Habitat",
    "link": "https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835",
    "deadline": "2026-10-14",
    "fit": "Medium",
    "note": "Found automatically (6 points)",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593",
+   "deadline": "2026-10-08",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-10-06",
@@ -157,6 +157,19 @@
    "tries": 0
   },
   {
+   "title": "Project Coordinator",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791230820933",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-06",
+   "status": "open",
+   "checked": "2026-10-06",
+   "pack": "",
+   "tries": 0
+  },
+  {
    "title": "Construction Officer",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791262896839",
@@ -176,19 +189,6 @@
    "deadline": "",
    "fit": "High",
    "note": "Found automatically (19 points)",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-06",
-   "pack": "",
-   "tries": 0
-  },
-  {
-   "title": "Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791190532780",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-10-06",
@@ -335,8 +335,8 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-06",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "International Urban Design Lead Expert",
