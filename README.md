@@ -1,4 +1,4 @@
-# My jobs – DH
+# My jobs – Damir Hadžić
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
