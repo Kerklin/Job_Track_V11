@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-06T3"
+    "muted": "2026-10-07T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-06T3"
+    "muted": "2026-10-07T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-07",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    }
   },
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-07",
    "used": {
-    "openai/gpt-4.1": 2
+    "openai/gpt-4.1": 3
    },
    "apps": 0,
-   "calls": 2
+   "calls": 3
   },
   "maint": "2026-10-07",
   "vcheck": "2026-10-06",
@@ -102,7 +102,7 @@
    "status": "open",
    "checked": "2026-10-07",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Engineer, Dodoma, Tanzania",
