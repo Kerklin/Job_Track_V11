@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-07T2"
+    "muted": "2026-10-08T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-07T2"
+    "muted": "2026-10-08T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-08",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    }
   },
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-08",
    "used": {
-    "openai/gpt-4.1": 2
+    "openai/gpt-4.1": 3
    },
    "apps": 0,
-   "calls": 2
+   "calls": 3
   },
   "maint": "2026-10-08",
   "vcheck": "2026-10-06",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa",
+   "deadline": "2026-10-18",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "retry",
+   "tries": 1
+  },
   {
    "title": "SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh",
    "info": "via UNjobs · construction",
