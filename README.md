@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**58 open jobs** (🟢 18 · 🟡 23 · ⚪ 17) · **0 application packs** · updated 2026-10-08 · checks every 5 minutes · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**58 open jobs** (🟢 18 · 🟡 23 · ⚪ 17) · **0 application packs** · updated 2026-10-08 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -16,7 +16,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | 🔴 2 days | 🟢 High | ⏳ retrying | Check French + nationality rules |
 | [Foundry Technical Engineering Lead](https://unvacancies.org/jobs/foundry-technical-engineering-lead-68556004) 🆕 | via unvacancies · engineering | 2026-10-15 | 🔴 7 days | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 22 days | 🟢 High | ⏳ retrying | Apply first. Arabic desirable only. Hardship E, non-family |
-| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 22 days | 🟢 High | ⏳ queued | Deadline from listing – confirm |
+| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 22 days | 🟢 High | ⏳ retrying | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 67 days | 🟢 High | ⏳ queued | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394768869) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
@@ -99,11 +99,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-08 |
 | unvacancies · UNOPS | 2026-10-07 |
-| unvacancies · UN-Habitat | 2026-10-07 |
+| unvacancies · UN-Habitat | 2026-10-08 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-07 |
 | UNjobs · construction | 2026-10-08 |
 | UNjobs · infrastructure projects | 2026-10-07 |
-| UNOPS careers | 2026-10-07 |
+| UNOPS careers | 2026-10-08 |
 | UNICEF · construction | 2026-10-07 |
 
 </details>
