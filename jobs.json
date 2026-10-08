@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-07T0"
+    "muted": "2026-10-08T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-07T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,20 +64,46 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-07",
+   "day": "2026-10-08",
    "used": {
-    "openai/gpt-4.1": 5
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 5
+   "calls": 1
   },
-  "maint": "2026-10-07",
+  "maint": "2026-10-08",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791394768869",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Director, Sustainable Infrastructure Portfolio and Implementation",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791373293624",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-08",
+   "status": "open",
+   "checked": "2026-10-08",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
    "info": "via UNjobs · infrastructure projects",
@@ -425,9 +451,9 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Programme Management Specialist – UN-Habitat Syria",
@@ -464,7 +490,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -477,7 +503,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "retry",
    "tries": 3
   },
@@ -516,7 +542,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -542,7 +568,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -555,7 +581,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -568,7 +594,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -633,7 +659,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -646,7 +672,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -659,7 +685,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -672,7 +698,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -724,7 +750,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -737,7 +763,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -776,7 +802,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
@@ -789,7 +815,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06",
+   "checked": "2026-10-08",
    "pack": "",
    "tries": 0
   },
