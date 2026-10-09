@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-08T3"
+    "muted": "2026-10-09T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-08T3"
+    "muted": "2026-10-09T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,14 +64,14 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-08",
+   "day": "2026-10-09",
    "used": {
-    "openai/gpt-4.1": 4
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 4
+   "calls": 1
   },
-  "maint": "2026-10-08",
+  "maint": "2026-10-09",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -89,7 +89,7 @@
    "status": "open",
    "checked": "2026-10-08",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh",
@@ -126,7 +126,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -136,10 +136,10 @@
    "link": "https://unjobs.org/vacancies/1791396181599",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -149,10 +149,10 @@
    "link": "https://unjobs.org/vacancies/1791396181477",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -162,10 +162,10 @@
    "link": "https://unjobs.org/vacancies/1791374669552",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -178,7 +178,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -191,7 +191,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -204,7 +204,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "retry",
    "tries": 3
   },
@@ -217,7 +217,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -227,10 +227,10 @@
    "link": "https://unjobs.org/vacancies/1791345738022",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -243,7 +243,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -256,7 +256,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -269,7 +269,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -282,7 +282,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -295,7 +295,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
@@ -305,10 +305,10 @@
    "link": "https://unjobs.org/vacancies/1790801308669",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-09",
    "pack": "",
    "tries": 0
   },
