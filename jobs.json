@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-08T0"
+    "muted": "2026-10-10T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-09T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-08",
+    "last_ok": "2026-10-10",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,20 +64,85 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-09",
+   "day": "2026-10-10",
    "used": {
-    "openai/gpt-4.1": 4
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 4
+   "calls": 1
   },
-  "maint": "2026-10-09",
+  "maint": "2026-10-10",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "WASH Supervisor - Tyre, Tyre, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791556268009",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Coordinator South Sudan Ulang, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246881",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter Officer South Sudan Ulang, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565246494",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Wash & Shelter Officer CAR Bouar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791565245476",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Construction Engineer, Korhogo, Cote d'Ivoire",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439393965",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
    "info": "via UNICEF · construction",
@@ -87,7 +152,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "retry",
    "tries": 3
   },
@@ -100,7 +165,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -113,7 +178,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -321,7 +386,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -334,7 +399,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -347,7 +412,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -360,7 +425,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -373,7 +438,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -386,7 +451,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -399,7 +464,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -412,7 +477,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -422,10 +487,10 @@
    "link": "https://unjobs.org/vacancies/1791190732675",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-10)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-07",
+   "status": "removed",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -438,7 +503,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -451,7 +516,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07",
+   "checked": "2026-10-10",
    "pack": "",
    "tries": 0
   },
@@ -464,7 +529,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-10",
    "pack": "retry",
    "tries": 3
   },
@@ -674,7 +739,7 @@
    "status": "open",
    "checked": "2026-10-08",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Resident Engineer (BiH Tunnels)",
