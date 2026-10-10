@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-10T2"
+    "muted": "2026-10-10T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-10T2"
+    "muted": "2026-10-10T3"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-10",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-10",
    "used": {
-    "openai/gpt-4.1": 4
+    "openai/gpt-4.1": 5
    },
    "apps": 0,
-   "calls": 4
+   "calls": 5
   },
   "maint": "2026-10-10",
   "vcheck": "2026-10-06",
@@ -89,7 +89,7 @@
    "status": "open",
    "checked": "2026-10-10",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil",
