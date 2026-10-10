@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-10T1"
+    "muted": "2026-10-10T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-10",
    "used": {
-    "openai/gpt-4.1": 3
+    "openai/gpt-4.1": 4
    },
    "apps": 0,
-   "calls": 3
+   "calls": 4
   },
   "maint": "2026-10-10",
   "vcheck": "2026-10-06",
@@ -78,6 +78,32 @@
   ]
  },
  "jobs": [
+  {
+   "title": "SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791395387894",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "retry",
+   "tries": 1
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791633706500",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
    "info": "via UNjobs · construction",
