@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-10",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-10",
   "vcheck": "2026-10-06",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791608868643",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH Supervisor - Tyre, Tyre, Lebanon",
    "info": "via UNjobs · construction",
@@ -739,7 +752,7 @@
    "status": "open",
    "checked": "2026-10-08",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Resident Engineer (BiH Tunnels)",
