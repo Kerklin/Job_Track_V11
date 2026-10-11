@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-11T1"
+    "muted": "2026-10-11T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-11T1"
+    "muted": "2026-10-11T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-11",
    "used": {
-    "openai/gpt-4.1": 4
+    "openai/gpt-4.1": 5
    },
    "apps": 0,
-   "calls": 4
+   "calls": 5
   },
   "maint": "2026-10-11",
   "vcheck": "2026-10-06",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791712782551",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-11",
+   "status": "open",
+   "checked": "2026-10-11",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
    "info": "via UNjobs · infrastructure projects",
@@ -127,8 +140,8 @@
    "found": "2026-10-10",
    "status": "open",
    "checked": "2026-10-10",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
