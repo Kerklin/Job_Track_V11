@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-09T0"
+    "muted": "2026-10-11T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-09T0"
+    "muted": "2026-10-11T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-09",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-09",
+    "last_ok": "2026-10-11",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,14 +64,14 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-10",
+   "day": "2026-10-11",
    "used": {
-    "openai/gpt-4.1": 5
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 5
+   "calls": 1
   },
-  "maint": "2026-10-10",
+  "maint": "2026-10-11",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -89,7 +89,7 @@
    "status": "open",
    "checked": "2026-10-10",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil",
@@ -230,7 +230,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -607,7 +607,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -620,7 +620,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "retry",
    "tries": 3
   },
@@ -659,7 +659,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -685,7 +685,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -698,7 +698,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -711,7 +711,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -776,7 +776,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "retry",
    "tries": 3
   },
@@ -789,7 +789,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -802,7 +802,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -815,7 +815,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -867,7 +867,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -880,7 +880,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -919,7 +919,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
@@ -932,7 +932,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-08",
+   "checked": "2026-10-11",
    "pack": "",
    "tries": 0
   },
