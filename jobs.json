@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-11T2"
+    "muted": "2026-10-12T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-11T2"
+    "muted": "2026-10-12T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-10",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,20 +58,20 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-12",
     "muted": ""
    }
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-11",
+   "day": "2026-10-12",
    "used": {
-    "openai/gpt-4.1": 5
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 5
+   "calls": 1
   },
-  "maint": "2026-10-11",
+  "maint": "2026-10-12",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -126,7 +126,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-12",
    "pack": "retry",
    "tries": 3
   },
@@ -139,9 +139,9 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-12",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, Kharkiv, Odesa, Ukraine",
@@ -152,7 +152,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -165,7 +165,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-12",
    "pack": "retry",
    "tries": 1
   },
@@ -178,7 +178,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -191,7 +191,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -321,7 +321,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -334,7 +334,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -347,7 +347,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "retry",
    "tries": 3
   },
@@ -360,7 +360,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -386,7 +386,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -399,7 +399,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -412,7 +412,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -425,7 +425,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
@@ -438,7 +438,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-09",
+   "checked": "2026-10-12",
    "pack": "",
    "tries": 0
   },
