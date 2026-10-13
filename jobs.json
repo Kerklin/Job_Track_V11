@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-12T3"
+    "muted": "2026-10-13T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-12T3"
+    "muted": "2026-10-13T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-12",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,21 +58,21 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-13",
     "muted": ""
    }
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-12",
+   "day": "2026-10-13",
    "used": {
-    "openai/gpt-4.1": 4
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 4
+   "calls": 1
   },
-  "maint": "2026-10-12",
-  "vcheck": "2026-10-06",
+  "maint": "2026-10-13",
+  "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
@@ -141,7 +141,7 @@
    "status": "open",
    "checked": "2026-10-12",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
@@ -295,7 +295,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -308,7 +308,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -321,7 +321,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "retry",
    "tries": 3
   },
@@ -334,7 +334,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -347,7 +347,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -552,10 +552,10 @@
    "link": "https://unjobs.org/vacancies/1789649136938",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-10-13)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-10",
+   "status": "removed",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -568,7 +568,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -581,7 +581,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -591,10 +591,10 @@
    "link": "https://unjobs.org/vacancies/1791262896839",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-13)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-10",
+   "status": "removed",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -607,7 +607,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -620,7 +620,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -633,7 +633,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -646,7 +646,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -672,7 +672,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
@@ -685,7 +685,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-10",
+   "checked": "2026-10-13",
    "pack": "",
    "tries": 0
   },
