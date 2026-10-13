@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**63 open jobs** (🟢 20 · 🟡 28 · ⚪ 15) · **0 application packs** · updated 2026-10-13 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**65 open jobs** (🟢 20 · 🟡 30 · ⚪ 15) · **0 application packs** · updated 2026-10-13 · checks every 5 minutes · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -45,6 +45,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan](https://unjobs.org/vacancies/1791805833982) 🆕 | via UNjobs · construction | 2026-10-26 | 13 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 17 days | 🟡 Medium | ⏳ queued | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 25 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791882791098) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Manager, Facilities Transportation, Alamo](https://unjobs.org/vacancies/1791644019637) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [National Building Code Adviser - STA](https://unjobs.org/vacancies/1791781328274) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791712782551) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -124,11 +126,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-12 |
-| unvacancies · UNOPS | 2026-10-11 |
+| unvacancies · UNOPS | 2026-10-13 |
 | unvacancies · UN-Habitat | 2026-10-13 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-13 |
 | UNjobs · construction | 2026-10-12 |
-| UNjobs · infrastructure projects | 2026-10-11 |
+| UNjobs · infrastructure projects | 2026-10-13 |
 | UNOPS careers | 2026-10-13 |
 | UNICEF · construction | 2026-10-13 |
 
