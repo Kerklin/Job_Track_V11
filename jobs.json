@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-14T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-14T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-14",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-14",
   "vcheck": "2026-10-13",
@@ -141,7 +141,7 @@
    "status": "open",
    "checked": "2026-10-12",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan",
