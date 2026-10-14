@@ -25,7 +25,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan](https://unjobs.org/vacancies/1791395387894) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Technical Supervisor (Engineering/Architecture) – Housing Improvements, Niterói, Brazil](https://unjobs.org/vacancies/1791633706500) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (13 points) |
 | [WASH Supervisor - Tyre, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
-| [Shelter Officer South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246494) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
+| [Shelter Officer South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246494) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394768869) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
 | [Engineer, Dodoma, Tanzania](https://unjobs.org/vacancies/1791349295461) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (15 points) |
