@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**59 open jobs** (🟢 19 · 🟡 26 · ⚪ 14) · **0 application packs** · updated 2026-10-15 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**60 open jobs** (🟢 20 · 🟡 26 · ⚪ 14) · **0 application packs** · updated 2026-10-15 · checks every 5 minutes · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -20,6 +20,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 15 days | 🟢 High | ⏳ retrying | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 15 days | 🟢 High | ⏳ retrying | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 60 days | 🟢 High | ⏳ retrying | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792058510450) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Education Infrastructure Engineer, Damascus](https://unjobs.org/vacancies/1791813713952) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (13 points) |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789331) | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ retrying | Found automatically (11 points) |
 | [SUDAN - FSL PROJECT MANAGER (M/F) - TAWILA (NATIONAL CONTRACT), Soudan](https://unjobs.org/vacancies/1791395387894) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
@@ -129,11 +130,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-15 |
-| unvacancies · UNOPS | 2026-10-14 |
+| unvacancies · UNOPS | 2026-10-15 |
 | unvacancies · UN-Habitat | 2026-10-15 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-14 |
 | UNjobs · construction | 2026-10-15 |
-| UNjobs · infrastructure projects | 2026-10-14 |
+| UNjobs · infrastructure projects | 2026-10-15 |
 | UNOPS careers | 2026-10-15 |
 | UNICEF · construction | 2026-10-14 |
 

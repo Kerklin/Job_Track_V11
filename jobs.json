@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-14T3"
+    "muted": "2026-10-15T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-14T3"
+    "muted": "2026-10-15T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-15",
    "used": {
-    "openai/gpt-4.1": 2
+    "openai/gpt-4.1": 3
    },
    "apps": 0,
-   "calls": 2
+   "calls": 3
   },
   "maint": "2026-10-15",
   "vcheck": "2026-10-13",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792058510450",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "retry",
+   "tries": 1
+  },
   {
    "title": "Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States",
    "info": "via UNjobs · construction",
