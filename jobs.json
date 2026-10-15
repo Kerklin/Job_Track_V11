@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-12T2"
+    "muted": "2026-10-15T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-14T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-12",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-15",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-15",
   "vcheck": "2026-10-13",
@@ -78,6 +78,45 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792000206614",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual), Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792000272222",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Wash Technical Assistant Ethiopia North Afar",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791997248968",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
    "info": "via UNjobs · infrastructure projects",
@@ -310,7 +349,7 @@
    "status": "open",
    "checked": "2026-10-12",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Wash & Shelter Officer CAR Bouar",
