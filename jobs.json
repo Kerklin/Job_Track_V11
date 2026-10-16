@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-15T1"
+    "muted": "2026-10-16T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-16T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-16",
    "used": {
-    "openai/gpt-4.1": 4
+    "openai/gpt-4.1": 5
    },
    "apps": 0,
-   "calls": 4
+   "calls": 5
   },
   "maint": "2026-10-16",
   "vcheck": "2026-10-13",
@@ -78,6 +78,58 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Civil Engineer/Architect – BiH",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-architect-open-to-internal-and-external-applicants-DP-37528",
+   "deadline": "2026-10-23",
+   "fit": "High",
+   "note": "Found automatically (20 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "retry",
+   "tries": 1
+  },
+  {
+   "title": "Technical Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343",
+   "deadline": "2026-10-28",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087264868",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087267794",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
