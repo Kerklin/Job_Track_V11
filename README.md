@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**55 open jobs** (🟢 22 · 🟡 22 · ⚪ 11) · **0 application packs** · updated 2026-10-17 · checks every 5 minutes · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**56 open jobs** (🟢 22 · 🟡 23 · ⚪ 11) · **0 application packs** · updated 2026-10-17 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -20,7 +20,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 13 days | 🟢 High | ⏳ retrying | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 13 days | 🟢 High | ⏳ retrying | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 58 days | 🟢 High | ⏳ retrying | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
-| [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
+| [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ retrying | Found automatically (13 points) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792101963327) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792101948135) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | ⏳ queued | Found automatically (10 points) |
@@ -42,6 +42,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan](https://unjobs.org/vacancies/1791805833982) | via UNjobs · construction | 2026-10-26 | 9 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 13 days | 🟡 Medium | ⏳ queued | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 21 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Facilities Officer (Lease Administration and Account Management) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000206614) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Facilities Officer (Residential Real Estate Services) - CSFDF (Contractual), Washington, United States](https://unjobs.org/vacancies/1792000272222) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -137,11 +138,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-16 |
+| unvacancies · engineering | 2026-10-17 |
 | unvacancies · UNOPS | 2026-10-16 |
 | unvacancies · UN-Habitat | 2026-10-16 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-17 |
-| UNjobs · construction | 2026-10-16 |
+| UNjobs · construction | 2026-10-17 |
 | UNjobs · infrastructure projects | 2026-10-16 |
 | UNOPS careers | 2026-10-16 |
 | UNICEF · construction | 2026-10-17 |

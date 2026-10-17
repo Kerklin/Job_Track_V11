@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-16T3"
+    "muted": "2026-10-17T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-17T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-16",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-17",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-17",
   "vcheck": "2026-10-13",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Mobile Test Site Project Manager, Esparto, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792191044913",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-17",
+   "status": "open",
+   "checked": "2026-10-17",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer/Architect – BiH",
    "info": "via unvacancies · engineering",
@@ -127,8 +140,8 @@
    "found": "2026-10-16",
    "status": "open",
    "checked": "2026-10-16",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
