@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-17",
    "used": {
-    "openai/gpt-4.1": 6
+    "openai/gpt-4.1": 7
    },
    "apps": 0,
-   "calls": 6
+   "calls": 7
   },
   "maint": "2026-10-17",
   "vcheck": "2026-10-13",
@@ -180,7 +180,7 @@
    "status": "open",
    "checked": "2026-10-15",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
