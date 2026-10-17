@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-17",
    "used": {
-    "openai/gpt-4.1": 4
+    "openai/gpt-4.1": 5
    },
    "apps": 0,
-   "calls": 4
+   "calls": 5
   },
   "maint": "2026-10-17",
   "vcheck": "2026-10-13",
@@ -154,7 +154,7 @@
    "status": "open",
    "checked": "2026-10-16",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
