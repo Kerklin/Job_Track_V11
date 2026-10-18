@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**57 open jobs** (🟢 21 · 🟡 25 · ⚪ 11) · **0 application packs** · updated 2026-10-18 · checks every 5 minutes · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**57 open jobs** (🟢 21 · 🟡 25 · ⚪ 11) · **0 application packs** · updated 2026-10-18 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -104,7 +104,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | -4 days | 🟡 Medium | – | Check it isn't local-hire only |
 | [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -8 days | 🟢 High | – | Check French + nationality rules |
 | [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku · consultancy | 2026-10-14 | -4 days | 🟡 Medium | – | Deadline from listing – confirm |
-| [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | – | Posting removed (checked 2026-10-18) |
+| [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | – | EU work permit needed |
 | [Junior Housing and Urban Development Analyst](https://unhabitat.org/join-us) | UN-Habitat · Montreal · IICA-1 | 2026-10-15 | -3 days | ⚪ Low | – | Junior – you're overqualified |
 | [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) | UNV · Korhogo | 2026-10-13 | -5 days | ⚪ Low | – | Junior UNV, French. Listings disagree on national vs international |
 | [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -10 days | ⚪ Low | – | Displacement/CCCM focus. French likely |
@@ -141,11 +141,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-18 |
-| unvacancies · UNOPS | 2026-10-17 |
+| unvacancies · UNOPS | 2026-10-18 |
 | unvacancies · UN-Habitat | 2026-10-16 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-17 |
 | UNjobs · construction | 2026-10-18 |
-| UNjobs · infrastructure projects | 2026-10-17 |
+| UNjobs · infrastructure projects | 2026-10-18 |
 | UNOPS careers | 2026-10-16 |
 | UNICEF · construction | 2026-10-17 |
 
