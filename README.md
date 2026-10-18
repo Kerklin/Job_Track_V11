@@ -30,7 +30,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH Supervisor - Tyre, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Shelter Officer South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246494) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Engineer, Dodoma, Tanzania](https://unjobs.org/vacancies/1791349295461) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (15 points) |
-| [Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1778607480538) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ queued | Found automatically (11 points) |
+| [Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1778607480538) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ retrying | Found automatically (11 points) |
 | [Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum](https://unjobs.org/vacancies/1791262902457) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (19 points) |
 | [Architect / Civil Engineer – Building in Existing Buildings (Req 3412)](https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN) | STRABAG · Austria | – | check | 🟢 High | ⏳ queued | Check deadline + work permit |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)](https://unjobs.org/skills/infrastructure-projects) | Danish Refugee Council · Beirut | – | check | 🟢 High | ⏳ queued | Check deadline |

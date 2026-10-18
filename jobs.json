@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-18",
    "used": {
-    "openai/gpt-4.1": 6
+    "openai/gpt-4.1": 7
    },
    "apps": 0,
-   "calls": 6
+   "calls": 7
   },
   "maint": "2026-10-18",
   "vcheck": "2026-10-13",
@@ -790,8 +790,8 @@
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-10-17",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Project Coordinator",
