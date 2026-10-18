@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-17T3"
+    "muted": "2026-10-18T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-17T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -64,14 +64,14 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-17",
+   "day": "2026-10-18",
    "used": {
-    "openai/gpt-4.1": 8
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 8
+   "calls": 1
   },
-  "maint": "2026-10-17",
+  "maint": "2026-10-18",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -191,7 +191,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-18",
    "pack": "retry",
    "tries": 3
   },
@@ -204,7 +204,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-18",
    "pack": "retry",
    "tries": 3
   },
@@ -217,9 +217,9 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
-   "pack": "",
-   "tries": 0
+   "checked": "2026-10-18",
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -227,10 +227,10 @@
    "link": "https://unjobs.org/vacancies/1792058510450",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-15",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "retry",
    "tries": 3
   },
@@ -243,7 +243,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -958,7 +958,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -971,7 +971,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "retry",
    "tries": 3
   },
@@ -1010,7 +1010,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1036,7 +1036,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1049,7 +1049,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1059,10 +1059,10 @@
    "link": "https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402",
    "deadline": "2026-10-16",
    "fit": "Medium",
-   "note": "EU work permit needed",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-10-14",
+   "status": "removed",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1127,7 +1127,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "retry",
    "tries": 3
   },
@@ -1140,7 +1140,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1153,7 +1153,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
@@ -1166,7 +1166,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14",
+   "checked": "2026-10-18",
    "pack": "",
    "tries": 0
   },
