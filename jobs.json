@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-18T1"
+    "muted": "2026-10-19T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-19T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-19",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-19",
   "vcheck": "2026-10-13",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Consultant: Field Engineer (READY), Pohnpei",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792368028760",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "retry",
+   "tries": 1
+  },
   {
    "title": "ICT Project Manager",
    "info": "via UNjobs · infrastructure projects",
