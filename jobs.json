@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-19T1"
+    "muted": "2026-10-19T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-19",
    "used": {
-    "openai/gpt-4.1": 3
+    "openai/gpt-4.1": 4
    },
    "apps": 0,
-   "calls": 3
+   "calls": 4
   },
   "maint": "2026-10-19",
   "vcheck": "2026-10-13",
@@ -78,6 +78,97 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Consultant Field Engineer READY (two positions), Majuro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792440024693",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "retry",
+   "tries": 1
+  },
+  {
+   "title": "Project Coordinator",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792432836633",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Shelter & WASH Technical Officer Ukraine Shostka, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792429248532",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Structural Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411235453",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792411231706",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Engineering Assistant, Bidibidi, Rhino Camp, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792213286219",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "National Project Officer – Construction Engineer, Beirut",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792396826266",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
    "info": "via UNjobs · construction",
