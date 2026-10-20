@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**62 open jobs** (🟢 25 · 🟡 27 · ⚪ 10) · **0 application packs** · updated 2026-10-20 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**63 open jobs** (🟢 26 · 🟡 27 · ⚪ 10) · **0 application packs** · updated 2026-10-20 · checks every 5 minutes · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -19,6 +19,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 10 days | 🟢 High | ⏳ retrying | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 10 days | 🟢 High | ⏳ retrying | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 55 days | 🟢 High | ⏳ retrying | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Joint Project Coordinator \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792483244365) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ retrying | Found automatically (11 points) |
 | [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Consultant Field Engineer READY (two positions), Majuro](https://unjobs.org/vacancies/1792440024693) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Shelter & WASH Technical Officer Ukraine Shostka, Kyiv](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (16 points) |
@@ -152,10 +153,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-20 |
 | unvacancies · UNOPS | 2026-10-18 |
 | unvacancies · UN-Habitat | 2026-10-20 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-19 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-20 |
 | UNjobs · construction | 2026-10-20 |
 | UNjobs · infrastructure projects | 2026-10-18 |
 | UNOPS careers | 2026-10-20 |
-| UNICEF · construction | 2026-10-19 |
+| UNICEF · construction | 2026-10-20 |
 
 </details>
