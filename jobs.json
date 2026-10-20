@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-20T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-20",
    "used": {
-    "openai/gpt-4.1": 3
+    "openai/gpt-4.1": 4
    },
    "apps": 0,
-   "calls": 3
+   "calls": 4
   },
   "maint": "2026-10-20",
   "vcheck": "2026-10-20",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design, Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792476080480",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20",
+   "pack": "retry",
+   "tries": 1
+  },
   {
    "title": "Consultant Field Engineer READY (two positions), Majuro",
    "info": "via UNjobs · construction",
