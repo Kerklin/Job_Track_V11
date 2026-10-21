@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**60 open jobs** (🟢 26 · 🟡 25 · ⚪ 9) · **0 application packs** · updated 2026-10-21 · checks every 5 minutes · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**60 open jobs** (🟢 26 · 🟡 25 · ⚪ 9) · **0 application packs** · updated 2026-10-21 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -151,11 +151,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-20 |
-| unvacancies · UNOPS | 2026-10-18 |
+| unvacancies · UNOPS | 2026-10-21 |
 | unvacancies · UN-Habitat | 2026-10-21 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-20 |
 | UNjobs · construction | 2026-10-20 |
-| UNjobs · infrastructure projects | 2026-10-18 |
+| UNjobs · infrastructure projects | 2026-10-21 |
 | UNOPS careers | 2026-10-21 |
 | UNICEF · construction | 2026-10-20 |
 
