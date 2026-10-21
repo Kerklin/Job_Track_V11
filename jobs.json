@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-20T2"
+    "muted": "2026-10-21T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-20T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-21",
    "used": {
-    "openai/gpt-4.1": 3
+    "openai/gpt-4.1": 4
    },
    "apps": 0,
-   "calls": 3
+   "calls": 4
   },
   "maint": "2026-10-21",
   "vcheck": "2026-10-20",
@@ -78,6 +78,45 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792584094476",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH and Construction Officer, Kinshasa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558930105",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558903984",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-21",
+   "status": "open",
+   "checked": "2026-10-21",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Aleppo, Syria",
    "info": "via UNjobs · infrastructure projects",
@@ -166,8 +205,8 @@
    "found": "2026-10-19",
    "status": "open",
    "checked": "2026-10-19",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Project Engineer",

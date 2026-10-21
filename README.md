@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**61 open jobs** (🟢 26 · 🟡 26 · ⚪ 9) · **0 application packs** · updated 2026-10-21 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**64 open jobs** (🟢 26 · 🟡 29 · ⚪ 9) · **0 application packs** · updated 2026-10-21 · checks every 5 minutes · sources working today: 6 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -23,7 +23,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) 🆕 | via UNjobs · construction | – | check | 🟢 High | 🔗 needs the exact posting link | Found automatically (10 points) |
 | [Consultant Field Engineer READY (two positions), Majuro](https://unjobs.org/vacancies/1792440024693) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Shelter & WASH Technical Officer Ukraine Shostka, Kyiv](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (16 points) |
-| [Structural Engineer](https://unjobs.org/vacancies/1792411235453) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
+| [Structural Engineer](https://unjobs.org/vacancies/1792411235453) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Consultant: Field Engineer (READY), Pohnpei](https://unjobs.org/vacancies/1792368028760) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ retrying | Found automatically (13 points) |
@@ -46,6 +46,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 9 days | 🟡 Medium | ⏳ queued | Deadline from listing – confirm |
 | [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | 2026-11-01 | 11 days | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 17 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman](https://unjobs.org/vacancies/1792584094476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
+| [WASH and Construction Officer, Kinshasa](https://unjobs.org/vacancies/1792558930105) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
+| [Technical Advisor I-Shelter & Settlements RAPID, United States](https://unjobs.org/vacancies/1792558903984) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [WASH & Rehabilitation Officer (Roster), Aleppo, Syria](https://unjobs.org/vacancies/1789738262027) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Project Coordinator](https://unjobs.org/vacancies/1792432836633) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Project Engineer](https://unjobs.org/vacancies/1792411231706) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -151,11 +154,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-20 |
+| unvacancies · engineering | 2026-10-21 |
 | unvacancies · UNOPS | 2026-10-21 |
 | unvacancies · UN-Habitat | 2026-10-21 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-20 |
-| UNjobs · construction | 2026-10-20 |
+| UNjobs · construction | 2026-10-21 |
 | UNjobs · infrastructure projects | 2026-10-21 |
 | UNOPS careers | 2026-10-21 |
 | UNICEF · construction | 2026-10-20 |
