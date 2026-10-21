@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-20T2"
+    "muted": "2026-10-21T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-20T2"
+    "muted": "2026-10-21T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-21",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,14 +64,14 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-20",
+   "day": "2026-10-21",
    "used": {
-    "openai/gpt-4.1": 5
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 5
+   "calls": 1
   },
-  "maint": "2026-10-20",
+  "maint": "2026-10-21",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -89,7 +89,7 @@
    "status": "open",
    "checked": "2026-10-20",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Assistant Architect Design, Amman",
@@ -217,7 +217,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -230,7 +230,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -243,7 +243,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -321,7 +321,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-21",
    "pack": "retry",
    "tries": 3
   },
@@ -334,7 +334,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-21",
    "pack": "retry",
    "tries": 3
   },
@@ -552,10 +552,10 @@
    "link": "https://unjobs.org/vacancies/1791602788994",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-21)",
    "found": "2026-10-11",
-   "status": "open",
-   "checked": "2026-10-17",
+   "status": "removed",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -672,7 +672,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-08",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "retry",
    "tries": 3
   },
@@ -854,7 +854,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -867,7 +867,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -880,7 +880,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-16",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -919,7 +919,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "retry",
    "tries": 3
   },
@@ -958,7 +958,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -1020,10 +1020,10 @@
    "link": "https://unjobs.org/vacancies/1790951875279",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-21)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-17",
+   "status": "removed",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -1036,7 +1036,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "",
    "tries": 0
   },
@@ -1049,7 +1049,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-17",
+   "checked": "2026-10-21",
    "pack": "retry",
    "tries": 3
   },
