@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-21T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-21T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -51,7 +51,7 @@
    },
    "UNjobs · infrastructure projects": {
     "last_ok": "2026-10-21",
-    "muted": ""
+    "muted": "2026-10-21T1"
    },
    "UNOPS careers": {
     "last_ok": "2026-10-21",
@@ -101,8 +101,8 @@
    "found": "2026-10-20",
    "status": "open",
    "checked": "2026-10-20",
-   "pack": "retry",
-   "tries": 1
+   "pack": "needs-link",
+   "tries": 2
   },
   {
    "title": "Consultant Field Engineer READY (two positions), Majuro",
