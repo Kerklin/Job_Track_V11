@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-22",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-22",
   "vcheck": "2026-10-20",
@@ -271,7 +271,7 @@
    "status": "open",
    "checked": "2026-10-19",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "ICT Project Manager",
