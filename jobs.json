@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -64,20 +64,33 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-21",
+   "day": "2026-10-22",
    "used": {
-    "openai/gpt-4.1": 5
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 5
+   "calls": 1
   },
-  "maint": "2026-10-21",
+  "maint": "2026-10-22",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Project Manager, Global Housing Hub",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598",
+   "deadline": "2026-10-30",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman",
    "info": "via UNjobs · construction",
@@ -165,7 +178,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-22",
    "pack": "retry",
    "tries": 3
   },
@@ -178,7 +191,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -191,7 +204,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-22",
    "pack": "retry",
    "tries": 3
   },
@@ -204,9 +217,9 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-22",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Project Engineer",
@@ -399,7 +412,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "retry",
    "tries": 3
   },
@@ -425,7 +438,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1140,7 +1153,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1153,7 +1166,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "retry",
    "tries": 3
   },
@@ -1192,7 +1205,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1218,7 +1231,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1231,7 +1244,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1309,7 +1322,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "retry",
    "tries": 3
   },
@@ -1322,7 +1335,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1335,7 +1348,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
@@ -1348,7 +1361,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-18",
+   "checked": "2026-10-22",
    "pack": "",
    "tries": 0
   },
