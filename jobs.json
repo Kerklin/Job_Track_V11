@@ -1349,8 +1349,8 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-10-22",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)",
