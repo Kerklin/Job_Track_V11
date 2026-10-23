@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-22T3"
+    "muted": "2026-10-23T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-22T3"
+    "muted": "2026-10-23T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-22",
+    "last_ok": "2026-10-23",
     "muted": ""
    },
    "UNOPS careers": {
@@ -64,14 +64,14 @@
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-22",
+   "day": "2026-10-23",
    "used": {
-    "openai/gpt-4.1": 6
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 6
+   "calls": 1
   },
-  "maint": "2026-10-22",
+  "maint": "2026-10-23",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -141,7 +141,7 @@
    "status": "open",
    "checked": "2026-10-22",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal",
@@ -321,7 +321,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -334,7 +334,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -347,7 +347,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -360,7 +360,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "retry",
    "tries": 3
   },
@@ -542,7 +542,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -555,7 +555,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -594,7 +594,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -617,10 +617,10 @@
    "link": "https://unjobs.org/vacancies/1791813713952",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-10-23)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-19",
+   "status": "removed",
+   "checked": "2026-10-23",
    "pack": "retry",
    "tries": 3
   },
@@ -633,7 +633,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -646,7 +646,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "retry",
    "tries": 3
   },
@@ -659,7 +659,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "retry",
    "tries": 3
   },
@@ -672,7 +672,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
@@ -724,7 +724,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "retry",
    "tries": 3
   },
@@ -763,7 +763,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "retry",
    "tries": 3
   },
@@ -1504,7 +1504,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-19",
+   "checked": "2026-10-23",
    "pack": "",
    "tries": 0
   },
