@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-24T0"
+    "muted": "2026-10-24T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-24",
    "used": {
-    "openai/gpt-4.1": 6
+    "openai/gpt-4.1": 7
    },
    "apps": 0,
-   "calls": 6
+   "calls": 7
   },
   "maint": "2026-10-24",
   "vcheck": "2026-10-20",
@@ -78,6 +78,45 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Technical Program Manager, Facilities, South San Francisco, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792808720722",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792808743799",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "retry",
+   "tries": 1
+  },
+  {
+   "title": "Director, Housing and Resilience Programs, Washington, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792809233248",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-24",
+   "status": "open",
+   "checked": "2026-10-24",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
