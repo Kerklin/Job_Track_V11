@@ -18,7 +18,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) 🆕 | via UNjobs · construction | 2026-11-05 | 12 days | 🟢 High | ⏳ retrying | Found automatically (11 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 51 days | 🟢 High | ⏳ retrying | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Shelter & Wash Project Manager Chad Iriba (national only)](https://unjobs.org/vacancies/1792774853017) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
-| [Project Engineer](https://unjobs.org/vacancies/1792771338232) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (15 points) |
+| [Project Engineer](https://unjobs.org/vacancies/1792771338232) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (15 points) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792771336977) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792670558695) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (13 points) |
