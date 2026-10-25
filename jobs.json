@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-24T3"
+    "muted": "2026-10-25T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-24T3"
+    "muted": "2026-10-25T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-25",
    "used": {
-    "openai/gpt-4.1": 2
+    "openai/gpt-4.1": 3
    },
    "apps": 0,
-   "calls": 2
+   "calls": 3
   },
   "maint": "2026-10-25",
   "vcheck": "2026-10-20",
@@ -89,7 +89,7 @@
    "status": "open",
    "checked": "2026-10-25",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Technical Program Manager, Facilities, South San Francisco, United States",
