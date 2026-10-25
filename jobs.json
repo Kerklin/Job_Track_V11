@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-24T2"
+    "muted": "2026-10-25T3"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-24T2"
+    "muted": "2026-10-25T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-24",
+    "last_ok": "2026-10-25",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-25",
    "used": {
-    "openai/gpt-4.1": 6
+    "openai/gpt-4.1": 7
    },
    "apps": 0,
-   "calls": 6
+   "calls": 7
   },
   "maint": "2026-10-25",
   "vcheck": "2026-10-20",
@@ -102,7 +102,7 @@
    "status": "open",
    "checked": "2026-10-25",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Measurement, Cost And Contracts Engineer, Amman",
