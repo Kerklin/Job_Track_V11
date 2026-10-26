@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**78 open jobs** (🟢 28 · 🟡 44 · ⚪ 6) · **0 application packs** · updated 2026-10-26 · checks every 5 minutes · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**79 open jobs** (🟢 28 · 🟡 45 · ⚪ 6) · **0 application packs** · updated 2026-10-26 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -22,7 +22,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg](https://unjobs.org/vacancies/1792808743799) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Shelter & Wash Project Manager Chad Iriba (national only)](https://unjobs.org/vacancies/1792774853017) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Project Engineer](https://unjobs.org/vacancies/1792771338232) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (15 points) |
-| [Structural Engineer](https://unjobs.org/vacancies/1792771336977) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
+| [Structural Engineer](https://unjobs.org/vacancies/1792771336977) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) 🆕 | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792670558695) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (13 points) |
 | [Joint Project Coordinator \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792483244365) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ retrying | Found automatically (11 points) |
@@ -50,6 +50,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 🔴 7 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 10 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 12 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Project Manager-Port Development, Walvis-Bay, Namibia](https://unjobs.org/vacancies/1792816421069) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (7 points) |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (8 points) |
 | [Measurement, Cost And Contracts Engineer, Amman](https://unjobs.org/vacancies/1792771354211) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
@@ -183,11 +184,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-26 |
-| unvacancies · UNOPS | 2026-10-25 |
+| unvacancies · UNOPS | 2026-10-26 |
 | unvacancies · UN-Habitat | 2026-10-25 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-25 |
 | UNjobs · construction | 2026-10-26 |
-| UNjobs · infrastructure projects | 2026-10-25 |
+| UNjobs · infrastructure projects | 2026-10-26 |
 | UNOPS careers | 2026-10-25 |
 | UNICEF · construction | 2026-10-25 |
 
