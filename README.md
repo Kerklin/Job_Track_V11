@@ -24,7 +24,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg](https://unjobs.org/vacancies/1792808743799) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (10 points) |
 | [Shelter & Wash Project Manager Chad Iriba (national only)](https://unjobs.org/vacancies/1792774853017) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
 | [Project Engineer](https://unjobs.org/vacancies/1792771338232) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (15 points) |
-| [Structural Engineer](https://unjobs.org/vacancies/1792771336977) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (12 points) |
+| [Structural Engineer](https://unjobs.org/vacancies/1792771336977) | via UNjobs · construction | – | check | 🟢 High | 🔗 needs the exact posting link | Found automatically (12 points) |
 | [Construction Management Engineer, Kabul](https://unjobs.org/vacancies/1792677691805) | via UNjobs · construction | – | check | 🟢 High | ⏳ queued | Found automatically (12 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792670558695) | via UNjobs · construction | – | check | 🟢 High | ⏳ retrying | Found automatically (13 points) |
 | [Joint Project Coordinator \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792483244365) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | ⏳ retrying | Found automatically (11 points) |
