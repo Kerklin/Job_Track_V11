@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-27T0"
+    "muted": "2026-10-27T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-27T0"
+    "muted": "2026-10-27T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -79,6 +79,32 @@
  },
  "jobs": [
   {
+   "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793047576164",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "WASH & Rehabilitation Officer (Roster), Hamah, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793047561787",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27",
+   "pack": "",
+   "tries": 0
+  },
+  {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
    "link": "https://unjobs.org/vacancies/1793006873516",
@@ -114,8 +140,8 @@
    "found": "2026-10-26",
    "status": "open",
    "checked": "2026-10-26",
-   "pack": "retry",
-   "tries": 1
+   "pack": "needs-link",
+   "tries": 2
   },
   {
    "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
