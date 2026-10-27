@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-26T3"
+    "muted": "2026-10-27T1"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-26T3"
+    "muted": "2026-10-27T1"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-26",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    }
   },
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-27",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-27",
   "vcheck": "2026-10-27",
@@ -114,8 +114,8 @@
    "found": "2026-10-26",
    "status": "open",
    "checked": "2026-10-26",
-   "pack": "",
-   "tries": 0
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
