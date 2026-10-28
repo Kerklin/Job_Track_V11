@@ -6,7 +6,7 @@
 
 > ⚠️ **Application packs are saved publicly in applications/ (phone and email removed) – add the MAIL_USER and MAIL_PASS secrets for private email delivery**
 
-**78 open jobs** (🟢 30 · 🟡 42 · ⚪ 6) · **0 application packs** · updated 2026-10-28 · checks every 5 minutes · sources working today: 2 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
+**79 open jobs** (🟢 30 · 🟡 43 · ⚪ 6) · **0 application packs** · updated 2026-10-28 · checks every 5 minutes · sources working today: 4 of 15 · 🌐 **[Open the web page](https://kerklin.github.io/Job_Track_V11/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting  
 **Pack for any job:** Actions → Job search → Run workflow → paste the job's exact link → Run workflow.
@@ -51,6 +51,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 🔴 5 days | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 8 days | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 10 days | 🟡 Medium | ⏳ queued | Stretch: urban planning/finance focus |
+| [Linear Infrastructure Ecologist, United States](https://unjobs.org/vacancies/1793163658534) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
 | [WASH & Rehabilitation Officer (Roster), Hassakah, Syria](https://unjobs.org/vacancies/1793047576164) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [WASH & Rehabilitation Officer (Roster), Hamah, Syria](https://unjobs.org/vacancies/1793047561787) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (9 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793006873516) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | ⏳ queued | Found automatically (6 points) |
@@ -192,11 +193,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-27 |
-| unvacancies · UNOPS | 2026-10-27 |
+| unvacancies · UNOPS | 2026-10-28 |
 | unvacancies · UN-Habitat | 2026-10-28 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-27 |
 | UNjobs · construction | 2026-10-26 |
-| UNjobs · infrastructure projects | 2026-10-27 |
+| UNjobs · infrastructure projects | 2026-10-28 |
 | UNOPS careers | 2026-10-28 |
 | UNICEF · construction | 2026-10-27 |
 

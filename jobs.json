@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-27T2"
+    "muted": "2026-10-28T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-27T2"
+    "muted": "2026-10-28T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": "2026-10-27T3"
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-28",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-28",
   "vcheck": "2026-10-27",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Linear Infrastructure Ecologist, United States",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793163658534",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-28",
+   "status": "open",
+   "checked": "2026-10-28",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
    "info": "via unvacancies · engineering",
@@ -89,7 +102,7 @@
    "status": "open",
    "checked": "2026-10-27",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
