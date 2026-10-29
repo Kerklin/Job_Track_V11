@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-29T1"
+    "muted": "2026-10-29T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-29",
    "used": {
-    "openai/gpt-4.1": 2
+    "openai/gpt-4.1": 3
    },
    "apps": 0,
-   "calls": 2
+   "calls": 3
   },
   "maint": "2026-10-29",
   "vcheck": "2026-10-27",
@@ -78,6 +78,58 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Infrastructure Field Engineer (Consultant)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797",
+   "deadline": "2026-11-12",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793282444060",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (19 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Solar Installation Quality Assurance Engineer, Kampala",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793268102302",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793268102618",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision)",
    "info": "via unvacancies · engineering",
@@ -557,7 +609,7 @@
    "status": "open",
    "checked": "2026-10-29",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)",
