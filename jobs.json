@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-28T2"
+    "muted": "2026-10-29T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-28T2"
+    "muted": "2026-10-29T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-28",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,20 +58,20 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    }
   },
   "since": "2026-10-06",
   "ai": {
-   "day": "2026-10-28",
+   "day": "2026-10-29",
    "used": {
-    "openai/gpt-4.1": 5
+    "openai/gpt-4.1": 1
    },
    "apps": 0,
-   "calls": 5
+   "calls": 1
   },
-  "maint": "2026-10-28",
+  "maint": "2026-10-29",
   "vcheck": "2026-10-27",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -412,7 +412,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
@@ -425,7 +425,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "retry",
    "tries": 3
   },
@@ -438,7 +438,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
@@ -448,10 +448,10 @@
    "link": "https://unjobs.org/vacancies/1792808752982",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
@@ -464,7 +464,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
@@ -477,7 +477,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "retry",
    "tries": 3
   },
@@ -490,7 +490,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
@@ -503,7 +503,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
@@ -513,10 +513,10 @@
    "link": "https://unjobs.org/vacancies/1792771338232",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (15 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-29",
    "pack": "retry",
    "tries": 3
   },
@@ -526,10 +526,10 @@
    "link": "https://unjobs.org/vacancies/1792771324863",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
@@ -539,10 +539,10 @@
    "link": "https://unjobs.org/vacancies/1792771336977",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24",
+   "status": "removed",
+   "checked": "2026-10-29",
    "pack": "needs-link",
    "tries": 3
   },
@@ -550,14 +550,14 @@
    "title": "Construction Management Engineer, Kabul",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1792677691805",
-   "deadline": "",
+   "deadline": "2026-11-05",
    "fit": "High",
    "note": "Found automatically (12 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24",
-   "pack": "",
-   "tries": 0
+   "checked": "2026-10-29",
+   "pack": "retry",
+   "tries": 1
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)",
@@ -776,7 +776,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-24",
+   "checked": "2026-10-29",
    "pack": "retry",
    "tries": 3
   },
@@ -1293,10 +1293,10 @@
    "link": "https://unjobs.org/vacancies/1791556268009",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-10",
-   "status": "open",
-   "checked": "2026-10-23",
+   "status": "removed",
+   "checked": "2026-10-29",
    "pack": "retry",
    "tries": 3
   },
@@ -2037,7 +2037,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-23",
+   "checked": "2026-10-29",
    "pack": "",
    "tries": 0
   },
