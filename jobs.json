@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-28T3"
+    "muted": "2026-10-29T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-29T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-29",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-29",
   "vcheck": "2026-10-27",
@@ -557,7 +557,7 @@
    "status": "open",
    "checked": "2026-10-29",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)",
