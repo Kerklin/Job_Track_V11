@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-30T0"
+    "muted": "2026-10-30T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-30T0"
+    "muted": "2026-10-30T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-30",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-30",
   "vcheck": "2026-10-27",
@@ -78,6 +78,19 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Informal Settlements Urban Planning Senior Consultant",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263",
+   "deadline": "2026-11-08",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30",
+   "pack": "",
+   "tries": 0
+  },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
    "info": "via unvacancies · engineering",
@@ -219,7 +232,7 @@
    "status": "open",
    "checked": "2026-10-28",
    "pack": "retry",
-   "tries": 2
+   "tries": 3
   },
   {
    "title": "PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine",
