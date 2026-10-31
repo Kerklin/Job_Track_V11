@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-31T0"
+    "muted": "2026-10-31T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-31T0"
+    "muted": "2026-10-31T1"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -66,10 +66,10 @@
   "ai": {
    "day": "2026-10-31",
    "used": {
-    "openai/gpt-4.1": 1
+    "openai/gpt-4.1": 2
    },
    "apps": 0,
-   "calls": 1
+   "calls": 2
   },
   "maint": "2026-10-31",
   "vcheck": "2026-10-27",
@@ -102,7 +102,7 @@
    "status": "open",
    "checked": "2026-10-30",
    "pack": "retry",
-   "tries": 1
+   "tries": 2
   },
   {
    "title": "Informal Settlements Urban Planning Senior Consultant",
